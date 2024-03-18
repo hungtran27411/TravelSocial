@@ -36,4 +36,5 @@ URL Here.
 ![Alt Text](https://github.com/hungtran27411/TravelSocial/blob/main/Nomadic.jpg?raw=true)
 
 <h2>ERD</h2>
+
 ![Alt Text](https://github.com/hungtran27411/TravelSocial/blob/main/erd.png?raw=true)
