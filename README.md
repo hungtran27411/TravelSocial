@@ -5,7 +5,7 @@ Using the MERN (MongoDB, Express.js, React.js, Node.js) stack for building a tra
 URL Here. 
 
 ![Alt Text](https://github.com/hungtran27411/TravelSocial/blob/main/Nomadic.png?raw=true)
-Features: 
+<h2>Features: </h2>
   User profiles, 
   Photo sharing 
   reviews/ratings,
@@ -14,18 +14,18 @@ Features:
     following
     freiend request
 
-  Database: 
+ <h2> Database: </h2>
     MongoDB database schema to store:
       user data, 
       travel plans, 
       posts, 
       comments
       
-  Backend  (Node.js + Express.js):  
-  Create endpoints to handle user authentication, 
+  <h2> Backend </h2> (Node.js + Express.js):  
+  I will create endpoints to handle user authentication, 
   CRUD operations for user data and travel-related information
 
-  Frontend Development (React.js): 
+  <h2>Frontend Development</h2> (React.js): 
     view content, 
     interact with other users.
 
