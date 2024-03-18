@@ -4,6 +4,7 @@ Using the MERN (MongoDB, Express.js, React.js, Node.js) stack for building a tra
 
 URL Here. 
 
+![Alt Text](https://github.com/hungtran27411/TravelSocial/blob/main/Nomadic.png?raw=true)
 Features: 
   User profiles, 
   Photo sharing 
@@ -30,5 +31,6 @@ Features:
 
   Token BasedAuthentication: 
     JSON Web Tokens (JWT) to authenticate users and manage sessions.
+    
   
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Alt Text](https://github.com/hungtran27411/TravelSocial/blob/main/Nomadic.jpg?raw=true)
